@@ -31,3 +31,5 @@ Arrastou para a direita → imagem anterior
 
 E o loop é infinito:
 da imagem 12 → 1 e de 1 → 12.
+
+clique aqui: (https://richeliane-moura.github.io/imagem-360/)
